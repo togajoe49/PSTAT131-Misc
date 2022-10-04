@@ -1,1 +1,1 @@
-# PSTAT131_duplicate
+# Testing if I can connect RStudio to Github
